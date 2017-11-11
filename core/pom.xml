@@ -44,9 +44,9 @@
 		</dependency>
 		<!-- HTTP Client -->
 		<dependency>
-			<groupId>com.google.http-client</groupId>
-			<artifactId>google-http-client</artifactId>
-			<version>${google.http.client.version}</version>
+			<groupId>org.apache.httpcomponents:httpclient-android</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.3.5</version>
 		</dependency>
 		<!-- Utility -->
 		<dependency>
